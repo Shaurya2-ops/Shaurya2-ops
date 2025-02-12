@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/shauryashukla/Desktop/shaurya codes /shaurya code ",
+      "program": "/Users/shauryashukla/Desktop/shaurya codes /shaurya code /build/Debug/outDebug"
+    }
+  ]
+}
