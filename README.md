@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 <br>Memory updated<br>Here’s a well-structured "About Me" section for your GitHub profile:<br><br>👋 Hey there! I'm Shaurya<br><br>🚀 Aspiring AI & Data Science Enthusiast | Full-Stack Developer | Pythonista<br>I'm a first-year BTech student in Computer Science, passionate about AI, Machine Learning, and Data Science. I love solving real-world problems with technology and constantly expanding my knowledge in full-stack development and core Python concepts.<br><br>🔥 What I’m Currently Doing:<br>🌱 Learning AI & ML to build intelligent solutions<br>💻 Exploring Full-Stack Development (MERN, Django, Flask)<br>🛠 Working on Hackathon Projects related to AI & healthcare<br>📚 Strengthening DSA in Python for problem-solving<br>🏆 Goals:<br>Build AI-driven applications 🧠<br>Contribute to open-source projects 🤝<br>Develop industry-level projects as a fresher 💡
 
 
